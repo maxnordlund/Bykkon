@@ -2,16 +2,6 @@
 <?eclipse-pydev version="1.0"?>
 
 <pydev_project>
-<pydev_pathproperty name="org.python.pydev.PROJECT_SOURCE_PATH">
-<path>/Bykkon/src</path>
-</pydev_pathproperty>
-<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython 2.5</pydev_property>
 <pydev_property name="org.python.pydev.PYTHON_PROJECT_INTERPRETER">Default</pydev_property>
-<pydev_pathproperty name="org.python.pydev.PROJECT_EXTERNAL_SOURCE_PATH">
-<path>${PROJECT_LOC}\bukkit\craftbukkit-1.2.5-R1.0.jar</path>
-</pydev_pathproperty>
-<pydev_variables_property name="org.python.pydev.PROJECT_VARIABLE_SUBSTITUTION">
-<key>PROJECT_LOC</key>
-<value>C:\Users\Max Nordlund\workspace\Bykkon</value>
-</pydev_variables_property>
+<pydev_property name="org.python.pydev.PYTHON_PROJECT_VERSION">jython 2.5</pydev_property>
 </pydev_project>
